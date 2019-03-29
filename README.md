@@ -9,4 +9,4 @@ UI组件第二题AlertDialog
 
 调用AlertDialog.Builder 对象上的setView() 将布局添加到AlertDialog。
 
-
+![image](https://github.com/zhanglei742/UI_AlertDialog/blob/master/src/readmepicture/2.png)
